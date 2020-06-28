@@ -17,15 +17,15 @@ Repositório voltado ao desenvolvimento do jogo Tamagotchi para realizar a prát
 
   ***Apache:*** É o servidor web onde os dados serão interpretados e transferidos entre o jogo e o banco de dados;
   
-[Apache](https://github.com/aDwCarrazzone/Tamagotchi/about/Apache/README.md)
+[Apache](https://github.com/aDwCarrazzone/Tamagotchi/assets/about/Apache/README.md)
 
   ***C#:*** É a linguagem de programação utilizada pela engine Unity e a linguagem em que o jogo será desenvolvido;
   
-[C#](https://github.com/aDwCarrazzone/Tamagotchi/about/C#/README.md)
+[C#](https://github.com/aDwCarrazzone/Tamagotchi/assets/about/C#/README.md)
 
   ***MySQL:*** É o banco de dados, onde ficara armazenado todas as informações dos jogadores e de seus pets.
   
-[MySQL](https://github.com/aDwCarrazzone/Tamagotchi/about/MySQL/README.md)
+[MySQL](https://github.com/aDwCarrazzone/Tamagotchi/assets/about/MySQL/README.md)
 
   ***PHP:***  Linguagem de back-end responsavel por interpretar os dados e transferi-los entre o jogo e o banco de dados.
 
