@@ -25,7 +25,7 @@ Repositório voltado ao desenvolvimento do jogo Tamagotchi para realizar a prát
 
   ***MySQL:*** É o banco de dados, onde ficara armazenado todas as informações dos jogadores e de seus pets.
   
-[MySQL](https://github.com/aDwCarrazzone/Tamagotchi/about/MySQL/README.md)
+    [MySQL](https://github.com/aDwCarrazzone/Tamagotchi/about/MySQL/README.md)
 
   ***PHP:***  Linguagem de back-end responsavel por interpretar os dados e transferi-los entre o jogo e o banco de dados.
 
