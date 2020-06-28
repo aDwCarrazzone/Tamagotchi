@@ -21,7 +21,7 @@ Repositório voltado ao desenvolvimento do jogo Tamagotchi para realizar a prát
 
   ***C#:*** É a linguagem de programação utilizada pela engine Unity e a linguagem em que o jogo será desenvolvido;
   
-[C#](https://github.com/aDwCarrazzone/Tamagotchi/blob/master/assets/about/c#/README.md)
+[C#](https://github.com/aDwCarrazzone/Tamagotchi/blob/master/assets/about/C%23/README.md)
 
   ***MySQL:*** É o banco de dados, onde ficara armazenado todas as informações dos jogadores e de seus pets.
   
