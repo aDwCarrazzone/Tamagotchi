@@ -15,9 +15,9 @@ Repositório voltado ao desenvolvimento do jogo Tamagotchi para realizar a prát
 
   Esse projeto tem como objetivo o desenvolvimento de um jogo através da engine Unity fazendo o uso de um banco de dados mysql, linguagens php e C#. Para o desenvolvimento do projeto fora utilizado a documentação da ferramenta Unity e vídeos tutorials. O Servidor será totalmente em php, o jogo em C#, a ligação entre ambos feita pela engine Unity e seus módulos de comunicação via post/request. Espera-se ter como resultado um jogo multiplataforma com intuito de fazer uso de um servidor e fazer envios e requisições de dados para obter um jogo de bichinho virtual que você possa levar consigo para qualquer lugar, independente do dispositivo usado para jogar. É proposto o uso de banco de dados para solucionar um dos maiores defeitos do tamagotchi convencional, onde case a bateria acabasse ou tivesse falhas você perdia o seu bichinho pois o mesmo ficava armazenado na memória temporária do dispositivo. C# será utilizado pois é a linguagem de programação utilizada pela Unity, PHP será utilizado para que seja feito a transferência de dados locais para o banco de dados assim garantindo que os dados não sejam perdidos ao fim do uso da aplicação
 
-  ***Apache:*** É o servidor web onde os dados serão interpretados e transferidos entre o jogo e o banco de dados;
+  [Apache](https://github.com/aDwCarrazzone/Tamagotchi/about/Apache/README.md)
 
-[Apache](https://github.com/aDwCarrazzone/Tamagotchi/about/Apache/README.md)
+    ***Apache:*** É o servidor web onde os dados serão interpretados e transferidos entre o jogo e o banco de dados;
 
   ***C#:*** É a linguagem de programação utilizada pela engine Unity e a linguagem em que o jogo será desenvolvido;
   
@@ -25,7 +25,7 @@ Repositório voltado ao desenvolvimento do jogo Tamagotchi para realizar a prát
 
   ***MySQL:*** É o banco de dados, onde ficara armazenado todas as informações dos jogadores e de seus pets.
   
-    [MySQL](https://github.com/aDwCarrazzone/Tamagotchi/about/MySQL/README.md)
+  [MySQL](https://github.com/aDwCarrazzone/Tamagotchi/about/MySQL/README.md)
 
   ***PHP:***  Linguagem de back-end responsavel por interpretar os dados e transferi-los entre o jogo e o banco de dados.
 
